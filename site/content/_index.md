@@ -15,11 +15,10 @@ blurb:
 
     Ich heiße Michaela und lebe glücklich zusammen mit meinem auserwählten “Vikinger” im schönen Småland.
 intro:
-  heading: What we offer
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  heading: Dienstleistungen
+  text: |
+    Deutsche Übersetzungen von schwedischen Dokumenten jeder Art.
+    -	Direkt online beauftragen – 
 products:
   - image: img/illustrations-coffee.svg
     text: We sell green and roasted coffee beans that are sourced directly from
