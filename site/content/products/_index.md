@@ -8,9 +8,13 @@ intro:
     Ich übersetze Dokumente jeglicher Art von schwedischer Sprache ins deutsche
     und umgekehrt. (ausgenommen beglaubigte Übersetzungen)
 main:
-  heading: Welche Arten von Dokumenten übersetzte ich?
-  description: Ich kann Dokumente jeglicher Art (ausgenommen beglaubigte
-    Übersetzungen) von schwedisch ins deutsche und umgekehrt übersetzten.
+  heading: Was kostet es Dokumente übersetzten zu lassen?
+  description: >
+    Ihre Dokument können Sie schon ab 20 € für 100 Wörter Übersetzten lassen.
+    Bei größeren und komplexeren Übersetzungen erstelle ich Ihnen gerne ein
+    unverbindliches Angebot.
+
+    (hierbei ausgenommen sind beglaubigte Übersetzungen)
   image1:
     alt: er
     image: img/2.jpg
