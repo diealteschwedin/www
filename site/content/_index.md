@@ -5,7 +5,7 @@ image: img/5.jpg
 blurb:
   heading: Hilfe wir sind in Schweden..
   text: >
-    Vor 20 Jahren war ich dort, wo Sie jetzt sind. 
+    ....vor 20 Jahren war ich dort, wo Sie jetzt sind. 
 
     Aus Berlin ausgewandert, in Schweden eingewandert. 
 
