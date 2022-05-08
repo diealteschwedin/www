@@ -4,8 +4,9 @@ heading: Deutsche Übersetzungen von schwedischen Dokumenten jeder Art.
 intro:
   blurbs: []
   heading: Welche Arten von Dokumenten übersetzte ich?
-  description: Ich kann Dokumente jeglicher Art (ausgenommen beglaubigte
-    Übersetzungen) von schwedisch ins deutsche und umgekehrt übersetzten.
+  description: >
+    Ich übersetze Dokumente jeglicher Art von schwedischer Sprache ins deutsche
+    und umgekehrt. (ausgenommen beglaubigte Übersetzungen)
 main:
   heading: Welche Arten von Dokumenten übersetzte ich?
   description: Ich kann Dokumente jeglicher Art (ausgenommen beglaubigte
@@ -31,8 +32,5 @@ pricing:
   plans: []
 type: products
 image: img/3.jpg
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+description: per Email und PDF
 ---
