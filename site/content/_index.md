@@ -18,10 +18,10 @@ intro:
   heading: Dienstleistungen
   text: Deutsche Übersetzungen von schwedischen Dokumenten jeder Art.
 products:
-  - image: img/illustrations-coffee.svg
-    text: |
+  - image: img/1.jpg
+    text: |+
       Deutsche Übersetzungen von schwedischen Dokumenten jeder Art.
-      -	Direkt online beauftragen – 
+
 values:
   heading: Our values
   text: Coffee is an amazing part of human culture but it has a dark side too –
