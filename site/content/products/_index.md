@@ -3,18 +3,20 @@ title: Dienstleistungen
 heading: Deutsche Übersetzungen von schwedischen Dokumenten jeder Art.
 intro:
   blurbs: []
-  heading: Welche Arten von Dokumenten übersetzte ich?
-  description: >
-    Ich übersetze Dokumente jeglicher Art von schwedischer Sprache ins deutsche
-    und umgekehrt. (ausgenommen beglaubigte Übersetzungen)
-main:
   heading: Was kostet es Dokumente übersetzten zu lassen?
   description: >
     Ihre Dokument können Sie schon ab 20 € für 100 Wörter Übersetzten lassen.
     Bei größeren und komplexeren Übersetzungen erstelle ich Ihnen gerne ein
     unverbindliches Angebot.
 
-    (hierbei ausgenommen sind beglaubigte Übersetzungen)
+    (ausgenommen sind beglaubigte Übersetzungen)
+main:
+  heading: Welche Arten von Dokumenten übersetzte ich?
+  description: >-
+    Ich übersetze Dokumente jeglicher Art von schwedischer Sprache ins deutsche
+    und umgekehrt.
+
+    (ausgenommen beglaubigte Übersetzungen)
   image1:
     alt: er
     image: img/2.jpg
@@ -35,6 +37,6 @@ pricing:
     ist er natürlich auch zu übersetzen."
   plans: []
 type: products
-image: img/3.jpg
+image: img/dfg.jpg
 description: per Email und PDF
 ---
