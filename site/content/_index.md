@@ -3,11 +3,17 @@ title: "die-alte-schwedin "
 subtitle: Übersetzung und Interpretation für den schwedischen Alltag.
 image: img/5.jpg
 blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: “Hilfe wir sind in Schweden!"
+  text: >
+    Vor 20 Jahren war ich dort, wo Sie jetzt sind. 
+
+    Aus Berlin ausgewandert, in Schweden eingewandert. 
+
+    Mit Sack und Pack ins schwedische Abenteuer. Viele positive Erwartungen und keine Sprachkenntnisse im Gepäck.
+
+    Meine gesammelten Sprachkenntnisse und Erfahrungen, teile ich gerne mit Ihnen.
+
+    Ich heiße Michaela und lebe glücklich zusammen mit meinem auserwählten “Vikinger” im schönen Småland.
 intro:
   heading: What we offer
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
