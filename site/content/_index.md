@@ -18,7 +18,7 @@ intro:
   heading: Dienstleistungen
   text: Deutsche Übersetzungen von schwedischen Dokumenten jeder Art.
 products:
-  - image: img/1.jpg
+  - image: img/xd.jpg
     text: "\n"
 values:
   heading: Our values
