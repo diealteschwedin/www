@@ -16,7 +16,7 @@ blurb:
     Ich heiße Michaela und lebe glücklich zusammen mit meinem auserwählten “Vikinger” im schönen Småland.
 intro:
   heading: Dienstleistungen
-  text: adsfafds
+  text: Deutsche Übersetzungen von schwedischen Dokumenten jeder Art.
 products:
   - image: img/illustrations-coffee.svg
     text: |
