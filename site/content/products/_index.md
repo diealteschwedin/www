@@ -3,14 +3,9 @@ title: Dienstleistungen
 heading: Deutsche Übersetzungen von schwedischen Dokumenten jeder Art.
 intro:
   blurbs: []
-  heading: Was kostet es Dokumente übersetzten zu lassen?
-  description: >
-    Ihr Dokument können Sie schon ab 20 € für 100 Wörter Übersetzten lassen.
-
-    Bei größeren und komplexeren Übersetzungen erstelle ich Ihnen gerne ein unverbindliches Angebot.
-
-
-    (hierbei ausgenommen sind beglaubigte Übersetzungen)
+  heading: Welche Arten von Dokumenten übersetzte ich?
+  description: Ich kann Dokumente jeglicher Art (ausgenommen beglaubigte
+    Übersetzungen) von schwedisch ins deutsche und umgekehrt übersetzten.
 main:
   heading: Welche Arten von Dokumenten übersetzte ich?
   description: >+
@@ -31,21 +26,17 @@ main:
 
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: img/rewer.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: img/dfg.jpg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: img/4.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: Kaldi is the place to go if you want the best quality coffee. I love
-      their stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+  - quote: Vielen Dank für deine Unterstützung und den netten Kontakt! Vi ses
+    author: Ramona
+full_image: img/dfg.jpg
 pricing:
   heading: Monthly subscriptions
   description: We make it easy to make great coffee a part of your life. Choose
