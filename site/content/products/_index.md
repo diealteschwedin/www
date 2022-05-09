@@ -1,5 +1,5 @@
 ---
-title: Mein Angebot
+title: Übersetzungen und.....
 heading: Unterstützung mit schwedischen Dokumenten im Alltag.
 intro:
   blurbs:
@@ -23,8 +23,8 @@ intro:
         Übersetzungsprozess beginnt unmittelbar nachdem ein Angebot bestätigt
         wurde. Die fertiggestellte Übersetzung wird zusammen mit der Rechnung
         per E-Mail verschickt. 
-  heading: Übersetzungen und.....
-  description: ....die wichtigsten Punkte hierzu.
+  heading: ....die wichtigsten Punkte hierzu
+  description: Unterstützung mit schwedischen Papieren im Alltag.
 main:
   heading: e
   description: e
