@@ -44,6 +44,6 @@ pricing:
   description: e
   plans: []
 type: products
-image: img/dfg.jpg
+image: img/2.jpg
 description: per Email und PDF
 ---
