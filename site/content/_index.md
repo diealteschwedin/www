@@ -20,14 +20,8 @@ intro:
     Deutsche Übersetzungen von schwedischen Dokumenten. 
     Was kostet es Dokumente übersetzten zu lassen?
 products:
-  - image: img/vb.jpg
-    text: >
-      Was kostet es Dokumente übersetzten zu lassen?
-
-      Ihr Dokument können Sie schon ab 20 € für 100 Wörter Übersetzten lassen.
-
-
-      Bei größeren und komplexeren Übersetzungen erstelle ich Ihnen gerne ein unverbindliches Angebot.
+  - image: img/rewer.jpg
+    text: Was kostet es Dokumente übersetzten zu lassen?
   - image: img/rtz.jpg
     text: >
       Welche Arten von Dokumenten übersetzte ich?
