@@ -3,18 +3,7 @@ title: Mein Angebot
 heading: Unterstützung mit schwedischen Dokumenten im Alltag.
 intro:
   blurbs:
-    - text: |
-        -	Aufenthalt und Arbeit        
-                                                             
-        -	Mieten und Kaufen
-
-        -	Personennummer / Steuern / ID – Nummer
-
-        -	Versicherungen
-
-        -	Gesundheitsbehörden
-
-        -	Arbeitsamt und Schule
+    - text: "\n"
       image: img/1.jpg
   heading: Übersetzungen
   description: "Zum Beispiel: Aufenthalt und Arbeit / Mieten und Kaufen
