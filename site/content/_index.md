@@ -25,7 +25,5 @@ products:
       Welche Arten von Dokumenten übersetzte ich?
   - image: img/4.jpg
     text: Wie lange braucht man für eine Übersetzung?
-values:
-  heading: e
-  text: e
+
 ---
