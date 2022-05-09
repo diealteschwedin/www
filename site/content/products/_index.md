@@ -4,7 +4,7 @@ heading: Unterstützung mit schwedischen Dokumenten im Alltag.
 intro:
   blurbs:
     - text: "\n"
-      image: img/1.jpg
+      image: img/about-sustainable-farming.jpg.jpg
   heading: Übersetzungen
   description: "Zum Beispiel: Aufenthalt und Arbeit / Mieten und Kaufen
     (Gutachten) / Personennummer / Steuern und  ID-Nummer / Versicherungen und
