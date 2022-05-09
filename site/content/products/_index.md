@@ -25,25 +25,5 @@ intro:
         per E-Mail verschickt. 
   heading: ....die wichtigsten Punkte hierzu
   description: Unterstützung mit schwedischen Papieren im Alltag.
-main:
-  heading: e
-  description: e
-  image1:
-    alt: er
-    image: img/mstile-150x150.png
-  image2:
-    alt: er
-    image: img/mstile-310x150.png
-  image3:
-    alt: er
-    image: img/mstile-310x150.png
-testimonials: []
-full_image: img/2.jpg
-pricing:
-  heading: e
-  description: e
-  plans: []
-type: products
-image: img/2.jpg
-description: per Email und PDF
+
 ---
