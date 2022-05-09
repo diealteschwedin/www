@@ -5,10 +5,4 @@ contact_entries:
   - heading: E-mail
     text: diealteschwedin@hotmail.com
 ---
-
-
-**Kontakt**
-
-Benötigen Sie Hilfe?
-
-Kontaktieren Sie mich unter folgender E-Mail
+Nehmen Sie bitte einfach Kontakt zu mir auf wenn Sie einen Text haben, den Sie gerne von schwedisch ins deutsche übersetzten wollen. Anschließend kann ich Ihnen sagen, ob ich die Übersetzung übernehmen kann und mit welcher bearbeitungszeit Sie rechnen müssen.
