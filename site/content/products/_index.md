@@ -1,6 +1,6 @@
 ---
 title: Mein Angebot
-heading: Deutsche Übersetzungen von schwedischen Dokumenten jeder Art.
+heading: Unterstützung mit schwedischen Dokumenten im Alltag.
 intro:
   blurbs:
     - text: |
@@ -16,9 +16,10 @@ intro:
 
         -	Arbeitsamt und Schule
       image: img/1.jpg
-  heading: Welche Arten von Dokumenten übersetzte ich?
-  description: Ich übersetze Dokumente jeglicher Art von schwedischer Sprache ins
-    deutsche und umgekehrt. Ausgenommen sind beglaubigte Dokumente.
+  heading: Übersetzungen
+  description: "Zum Beispiel: Aufenthalt und Arbeit / Mieten und Kaufen
+    (Gutachten) / Personennummer / Steuern und  ID-Nummer / Versicherungen und
+    Gesundheitsbehörden / Arbeitsamt und Schule."
 main:
   heading: Was kostet es Dokumente übersetzten zu lassen?
   description: >
