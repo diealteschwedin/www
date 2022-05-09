@@ -16,17 +16,16 @@ blurb:
     Ich heiße Michaela und lebe glücklich zusammen mit meinem auserwählten “Vikinger” im schönen Småland.
 intro:
   heading: Mein Angebot
-  text: |-
-    Deutsche Übersetzungen von schwedischen Dokumenten. 
-    Was kostet es Dokumente übersetzten zu lassen?
+  text: Deutsche Übersetzungen und Unterstützung mit schwedischen Dokumenten im
+    Alltag.
 products:
   - image: img/rewer.jpg
     text: Was kostet es Dokumente übersetzten zu lassen?
-  - image: img/rtz.jpg
-    text: >
+  - image: img/vb.jpg
+    text: |
       Welche Arten von Dokumenten übersetzte ich?
-
-      Ich kann Dokumente jeglicher Art von schwedisch ins deutsche und umgekehrt übersetzten. Hierbei ausgenommen sind beglaubigte Dokumente. 
+  - image: img/4.jpg
+    text: Wie lange braucht man für eine Übersetzung?
 values:
   heading: Our values
   text: Coffee is an amazing part of human culture but it has a dark side too –
