@@ -15,11 +15,20 @@ blurb:
 
     Ich heiße Michaela und lebe glücklich zusammen mit meinem auserwählten “Vikinger” im schönen Småland.
 intro:
-  heading: Dienstleistungen
-  text: Deutsche Übersetzungen von schwedischen Dokumenten jeder Art.
+  heading: Leistung
+  text: Deutsche Übersetzungen von schwedischen Dokumenten jeder Art. Was kostet
+    es Dokumente übersetzten zu lassen?
 products:
   - image: img/xd.jpg
-    text: "\n"
+    text: >+
+      Was kostet es Dokumente übersetzten zu lassen?
+
+      Ihr Dokument können Sie schon ab 20 € für 100 Wörter Übersetzten lassen.
+
+      (hierbei ausgenommen sind beglaubigte Übersetzungen)
+
+      Bei größeren und komplexeren Übersetzungen erstelle ich Ihnen gerne ein unverbindliches Angebot.
+
 values:
   heading: Our values
   text: Coffee is an amazing part of human culture but it has a dark side too –
