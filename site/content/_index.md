@@ -19,7 +19,7 @@ intro:
   text: Deutsche Übersetzungen und Unterstützung mit schwedischen Dokumenten im
     Alltag.
 products:
-  - image: img/rewer.jpg
+  - image: img/elch.jpg
     text: Was kostet es Dokumente übersetzten zu lassen?
   - image: img/vb.jpg
     text: |
