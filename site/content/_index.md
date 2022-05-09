@@ -16,8 +16,7 @@ blurb:
     Ich heiße Michaela und lebe glücklich zusammen mit meinem auserwählten “Vikinger” im schönen Småland.
 intro:
   heading: Mein Angebot
-  text: Deutsche Übersetzungen und Unterstützung mit schwedischen Dokumenten im
-    Alltag.
+  text: ......................................................................................................................
 products:
   - image: img/elch.jpg
     text: Was kostet es Dokumente übersetzten zu lassen?
