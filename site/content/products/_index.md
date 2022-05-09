@@ -9,14 +9,14 @@ intro:
     Bei größeren und komplexeren Übersetzungen erstelle ich Ihnen gerne ein
     unverbindliches Angebot.
 
-    (ausgenommen sind beglaubigte Übersetzungen)
+    (ausgenommen sind beglaubigte Dokumente)
 main:
   heading: Welche Arten von Dokumenten übersetzte ich?
   description: >-
     Ich übersetze Dokumente jeglicher Art von schwedischer Sprache ins deutsche
     und umgekehrt.
 
-    (ausgenommen beglaubigte Übersetzungen)
+    (ausgenommen sind beglaubigte Dokumente)
   image1:
     alt: er
     image: img/2.jpg
