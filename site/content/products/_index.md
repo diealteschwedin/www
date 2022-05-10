@@ -25,6 +25,13 @@ intro:
         Übersetzungsprozess beginnt unmittelbar nachdem ein Angebot bestätigt
         wurde. Die fertiggestellte Übersetzung wird zusammen mit der Rechnung
         per E-Mail verschickt. 
+    - text: >-
+        Wo bekomme ich meine PN-Nummer? Wozu benötige ich eine PN-Nummer?
+
+        Benötige ich eine Bank ID und für was benötige ich sie?
+
+        Welche Dokumente werden für eine Ummeldung des KFZ nötig und wo kann ich mein Auto ummelden?
+      image: img/fragezeichen.jpg
   heading: ....die wichtigsten Punkte hierzu
   description: Unterstützung mit schwedischen Papieren im Alltag.
 main:
