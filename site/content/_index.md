@@ -26,7 +26,7 @@ products:
   - image: img/zeit.jpg
     text: Wie lange braucht man für eine Übersetzung?
   - image: img/rechnung.jpg
-    text: Was kostet es Dokumente übersetzten zu lassen?
+    text: Was kostet es Dokumente übersetzen zu lassen?
   - text: >
       Wozu benötige ich eine PN-Nummer? Benötige ich eine Bank ID und für was
       benötige ich sie?
