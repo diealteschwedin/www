@@ -28,11 +28,10 @@ products:
   - image: img/rechnung.jpg
     text: Was kostet es Dokumente übersetzten zu lassen?
   - text: >
-      Wo bekomme ich meine PN-Nummer? Wozu benötige ich eine PN-Nummer?
+      Wozu benötige ich eine PN-Nummer? Benötige ich eine Bank ID und für was
+      benötige ich sie?
 
-      Benötige ich eine Bank ID und für was benötige ich sie?
-
-      Welche Dokumente werden für eine Ummeldung des KFZ nötig und wo kann ich mein Auto ummelden?
+      Welche Dokumente benötige ich?
     image: img/fragezeichen.jpg
 values:
   heading: e
