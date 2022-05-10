@@ -49,17 +49,10 @@ intro:
   heading: ....die wichtigsten Punkte hierzu
   description: Unterstützung mit schwedischen Papieren im Alltag.
 main:
-  description: >+
+  description: |
     
-    Bei einem Hauskauf beispielsweise, ist ein Gutachten in schriftlicher Form vorhanden. Übersetzen kann man dieses Gutachten auch per Software, aber der Inhalt eines Gutachtens ist wesentlich mehr als „nur“ eine Übersetzung.  Hier gibt es oft einige Punkte zu beachten, die speziell nur hier in Schweden zu beachten sind.  
-
-    Sie haben allgemeine Fragen zu den oben genannten Themen? Dann vereinbaren Sie gerne ein Telefongespräch mit mir.
-
-    Per E-Mail stimme ich einen Termin mit Ihnen ab. Eine Telefonsitzung dauert ca. 15- 30 Minuten und der Energieausgleich beträgt 35, €. Es ist ratsam, vor der Beratung formlos eine „kurze“ Mail zu verfassen, in der die hauptsächlichen Fragen skizziert werden. Hier ist es auch wichtig zu wissen um welche Kommune/Bundesland es sich handelt. Somit bin ich vorbereitet und kann den Telefontermin für Sie und mich effektiv nutzen.
-
-    Der Energieausgleich wird im Vorfeld vereinbart und sollte vor der Beratung auf mein Konto oder per PayPal eingegangen sein.
-
-  heading: Telefonische Beratung
+    z
+  heading: t
   image1:
     image: img/mstile-150x150.png
     alt: e
