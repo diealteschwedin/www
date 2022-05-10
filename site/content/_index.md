@@ -1,7 +1,7 @@
 ---
 title: "die-alte-schwedin "
 subtitle: Übersetzung und Interpretation für den schwedischen Alltag.
-image: img/dfg.jpg
+image: img/3.jpg
 blurb:
   heading: Hilfe wir sind in Schweden..
   text: >
@@ -25,5 +25,7 @@ products:
       Welche Arten von Dokumenten übersetzte ich?
   - image: img/4.jpg
     text: Wie lange braucht man für eine Übersetzung?
-
+values:
+  heading: f
+  text: f
 ---
