@@ -1,5 +1,5 @@
 ---
-title: Übersetzungen und Beratung...
+title: Übersetzungen und Beratung
 image: img/2.jpg
 heading: Unterstützung mit schwedischen Dokumenten im Alltag.
 description: ..
@@ -39,8 +39,11 @@ intro:
         Per E-Mail stimme ich einen Termin mit Ihnen ab. Eine Telefonsitzung dauert ca. 15- 30 Minuten und der Energieausgleich beträgt 35, €. Es ist ratsam, vor der Beratung formlos eine „kurze“ Mail zu verfassen, in der die hauptsächlichen Fragen skizziert werden. Hier ist es auch wichtig zu wissen um welche Kommune/Bundesland es sich handelt. Somit bin ich vorbereitet und kann den Telefontermin für Sie und mich effektiv nutzen.
 
         Der Energieausgleich wird im Vorfeld vereinbart und sollte vor der Beratung auf mein Konto oder per PayPal eingegangen sein.
-  heading: "..und mein Angebot "
-  description: "zur Unterstützung. "
+  heading: Mein Angebot
+  description: |-
+    Was kostet es Dokumente übersetzten zu lassen?
+    Welche Arten von Dokumenten übersetzte ich?
+    Wie lange braucht man für eine Übersetzung?
 main:
   description: |
     
