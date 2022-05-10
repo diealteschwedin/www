@@ -17,7 +17,7 @@ blurb:
 intro:
   heading: Mein Angebot
   text: "Auch in Schweden gibt es diverse Behörden, die für deutsche Einwanderer
-    fragen aufwirft. Besonders wenn man der Sprache noch nicht mächtig ist, kann
+    Fragen aufwirft. Besonders wenn man der Sprache noch nicht mächtig ist, kann
     es verwirrend sein sich damit auseinander zu setzten. "
 products:
   - image: img/dokumente-2.jpg
