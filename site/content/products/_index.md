@@ -24,13 +24,6 @@ intro:
         per E-Mail verschickt. 
 
       image: img/rechnung.jpg
-    - image: img/paypal.jpg
-      text: >
-        Nach dem Absenden Ihrer Angebotsanfrage erhalten Sie von mir ein
-        unverbindliches Angebot für Ihr Übersetzungsprojekt per E-Mail. Der
-        Übersetzungsprozess beginnt unmittelbar nachdem ein Angebot bestätigt
-        wurde. Die fertiggestellte Übersetzung wird zusammen mit der Rechnung
-        per E-Mail verschickt. 
     - text: >-
         Wo bekomme ich meine PN-Nummer? Wozu benötige ich eine PN-Nummer?
 
