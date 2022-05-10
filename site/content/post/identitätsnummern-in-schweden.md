@@ -1,6 +1,6 @@
 ---
 title: Identitätsnummern in Schweden
-date: 2022-05-10T15:57:16.516Z
+date: 2022-05-01T15:57:00.000Z
 description: Woraus besteht eine schwedische Personnummer?
 image: null
 ---
