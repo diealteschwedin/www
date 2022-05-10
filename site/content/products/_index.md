@@ -5,9 +5,9 @@ heading: Unterstützung mit schwedischen Dokumenten im Alltag.
 description: ..
 intro:
   blurbs:
-    - text: >-
-        Zum Beispiel: Aufenthalt und Arbeit
-         / Mieten und Kaufen (Gutachten) / Personennummer / Steuern und  ID-Nummer / Versicherungen und Gesundheitsbehörden / Arbeitsamt und Schule. 
+    - text: "Zum Beispiel: Aufenthalt und Arbeit  / Mieten und Kaufen (Gutachten) /
+        Personennummer / Steuern und  ID-Nummer / Versicherungen und
+        Gesundheitsbehörden / Arbeitsamt und Schule. "
       image: img/dokumente-2.jpg
     - image: img/zeit.jpg
       text: "Wie lange es dauert, hängt vor allem von zwei Faktoren ab:
@@ -34,9 +34,9 @@ intro:
     - image: img/telefon.jpg
       text: >
         Sie haben allgemeine Fragen zu den oben genannten Themen? Dann
-        vereinbaren Sie gerne ein Telefongespräch mit mir.
+        vereinbaren Sie gerne ein Beratungs gespräch per Telefon mit mir.
 
-        Per E-Mail stimme ich einen Termin mit Ihnen ab. Eine Telefonsitzung dauert ca. 15- 30 Minuten und der Energieausgleich beträgt 35, €. Es ist ratsam, vor der Beratung formlos eine „kurze“ Mail zu verfassen, in der die hauptsächlichen Fragen skizziert werden. Hier ist es auch wichtig zu wissen um welche Kommune/Bundesland es sich handelt. Somit bin ich vorbereitet und kann den Telefontermin für Sie und mich effektiv nutzen.
+        Per E-Mail stimme ich einen Termin mit Ihnen ab. Eine Telefonsitzung dauert ca. 15- 30 Minuten und der Energieausgleich beträgt 35, €. Es ist ratsam, vor der Beratung formlos eine „kurze“ E-Mail zu verfassen, in der die hauptsächlichen Fragen skizziert werden. Hier ist es auch wichtig zu wissen um welche Kommune/Bundesland es sich handelt. Somit bin ich vorbereitet und kann den Telefontermin für Sie und mich effektiv nutzen.
 
         Der Energieausgleich wird im Vorfeld vereinbart und sollte vor der Beratung auf mein Konto oder per PayPal eingegangen sein.
   heading: Mein Angebot
