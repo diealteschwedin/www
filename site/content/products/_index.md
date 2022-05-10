@@ -5,9 +5,14 @@ heading: Unterstützung mit schwedischen Dokumenten im Alltag.
 description: ..
 intro:
   blurbs:
-    - text: "Zum Beispiel: Aufenthalt und Arbeit  / Mieten und Kaufen (Gutachten) /
-        Personennummer / Steuern und  ID-Nummer / Versicherungen und
-        Gesundheitsbehörden / Arbeitsamt und Schule. "
+    - text: |-
+        Zum Beispiel: 
+        - [ ] Aufenthalt und Arbeit
+        - [ ] Mieten und Kaufen (Gutachten) 
+        - [ ] Personennummer 
+        - [ ] Steuern und ID-Nummer
+        - [ ] Versicherungen und Gesundheitsbehörden
+        - [ ] Arbeitsamt und Schule.
       image: img/dokumente-2.jpg
     - image: img/zeit.jpg
       text: "Wie lange es dauert, hängt vor allem von zwei Faktoren ab:
