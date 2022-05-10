@@ -1,5 +1,5 @@
 ---
-title: Übersetzungen und Beratung
+title: Übersetzung und Beratung
 image: img/2.jpg
 heading: Unterstützung mit schwedischen Dokumenten im Alltag.
 description: ..
@@ -50,9 +50,9 @@ intro:
       image: img/rechnung.jpg
   heading: Mein Angebot
   description: |-
-    Was kostet es Dokumente übersetzten zu lassen?
-    Welche Arten von Dokumenten übersetzte ich?
+    Welche Arten von Dokumenten übersetze ich?
     Wie lange braucht man für eine Übersetzung?
+    Was kostet es Dokumente übersetzen zu lassen?
 main:
   description: "\n"
   heading: t
