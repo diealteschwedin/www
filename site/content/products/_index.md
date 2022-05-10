@@ -39,11 +39,9 @@ intro:
         Per E-Mail stimme ich einen Termin mit Ihnen ab. Es ist ratsam, vor der Beratung formlos eine „kurze“ E-Mail zu verfassen, in der die hauptsächlichen Fragen skizziert werden. Hier ist es auch wichtig zu wissen um welche Kommune/Bundesland es sich handelt. Somit bin ich vorbereitet und kann den Telefontermin für Sie und mich effektiv nutzen.
     - text: >
         Eine Telefonsitzung dauert ca. 15- 30 Minuten und ist abhängig von
-        Umfang der Fragen
-
-        Der Energieausgleich wird im Vorfeld vereinbart und beträgt zwischen 20,-€ und 35,-€ je nach Zeitaufwand
-
-        und sollte vor der Beratung auf mein Konto oder per PayPal eingegangen sein.
+        Umfang der Fragen. Der Energieausgleich wird im Vorfeld vereinbart und
+        beträgt zwischen 20,-€ und 35,-€ je nach Zeitaufwand und wird vor der
+        Beratung verrechnet, entweder per Überweisung oder per PayPal. 
       image: img/rechnung.jpg
   heading: Mein Angebot
   description: |-
