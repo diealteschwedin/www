@@ -1,6 +1,8 @@
 ---
 title: Übersetzungen und.....
+image: img/2.jpg
 heading: Unterstützung mit schwedischen Dokumenten im Alltag.
+description: ..
 intro:
   blurbs:
     - text: "Zum Beispiel: Aufenthalt und Arbeit / Mieten und Kaufen (Gutachten) /
@@ -25,5 +27,20 @@ intro:
         per E-Mail verschickt. 
   heading: ....die wichtigsten Punkte hierzu
   description: Unterstützung mit schwedischen Papieren im Alltag.
-
+main:
+  heading: e
+  description: e
+  image1:
+    alt: e
+    image: img/safari-pinned-tab.svg
+  image2:
+    alt: e
+    image: img/safari-pinned-tab.svg
+  image3:
+    alt: e
+    image: img/safari-pinned-tab.svg
+full_image: img/safari-pinned-tab.svg
+pricing:
+  heading: e
+  description: e
 ---
