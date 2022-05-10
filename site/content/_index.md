@@ -22,7 +22,7 @@ intro:
 products:
   - image: img/dokumente-2.jpg
     text: |
-      Welche Arten von Dokumenten übersetzte ich?
+      Welche Arten von Dokumenten übersetze ich?
   - image: img/zeit.jpg
     text: Wie lange braucht man für eine Übersetzung?
   - image: img/rechnung.jpg
