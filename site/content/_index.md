@@ -20,7 +20,7 @@ intro:
 products:
   - image: img/elch.jpg
     text: Was kostet es Dokumente übersetzten zu lassen?
-  - image: img/vb.jpg
+  - image: img/er.jpg
     text: |
       Welche Arten von Dokumenten übersetzte ich?
   - image: img/4.jpg
