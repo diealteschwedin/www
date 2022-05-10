@@ -26,6 +26,6 @@ products:
   - image: img/zeit.jpg
     text: Wie lange braucht man für eine Übersetzung?
 values:
-  heading: f
+  heading: Benötigen Sie eine telefonische Beratung?
   text: f
 ---
