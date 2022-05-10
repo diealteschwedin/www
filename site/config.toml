@@ -3,6 +3,9 @@ languageCode = "de-de"
 languageLang = "de"
 title = "Hauptseite"
 
+[params]
+    DateForm = "02.01.2006"
+
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
 # https://gohugo.io/getting-started/configuration/#toml-configuration
