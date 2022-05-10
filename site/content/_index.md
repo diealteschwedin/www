@@ -18,12 +18,12 @@ intro:
   heading: Mein Angebot
   text: ......................................................................................................................
 products:
-  - image: img/elch.jpg
+  - image: img/rechnung.jpg
     text: Was kostet es Dokumente übersetzten zu lassen?
-  - image: img/er.jpg
+  - image: img/dokumente-2.jpg
     text: |
       Welche Arten von Dokumenten übersetzte ich?
-  - image: img/4.jpg
+  - image: img/zeit.jpg
     text: Wie lange braucht man für eine Übersetzung?
 values:
   heading: f
