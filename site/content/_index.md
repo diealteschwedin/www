@@ -16,7 +16,9 @@ blurb:
     Ich heiße Michaela und lebe glücklich zusammen mit meinem auserwählten “Vikinger” im schönen Småland.
 intro:
   heading: Mein Angebot
-  text: ......................................................................................................................
+  text: "Auch in Schweden gibt es diverse Behörden, die für deutsche Einwanderer
+    fragen aufwirft. Besonders wenn man der Sprache noch nicht mächtig ist, kann
+    es verwirrend sein sich damit auseinander zu setzten. "
 products:
   - image: img/rechnung.jpg
     text: Was kostet es Dokumente übersetzten zu lassen?
@@ -25,6 +27,13 @@ products:
       Welche Arten von Dokumenten übersetzte ich?
   - image: img/zeit.jpg
     text: Wie lange braucht man für eine Übersetzung?
+  - text: >
+      Wo bekomme ich meine PN-Nummer? Wozu benötige ich eine PN-Nummer?
+
+      Benötige ich eine Bank ID und für was benötige ich sie?
+
+      Welche Dokumente werden für eine Ummeldung des KFZ nötig und wo kann ich mein Auto ummelden?
+    image: img/telefon.jpg
 values:
   heading: Benötigen Sie eine telefonische Beratung?
   text: f
