@@ -7,7 +7,7 @@ intro:
   blurbs:
     - text: |-
         Zum Beispiel: 
-        ●   Aufenthalt und Arbeit
+          Aufenthalt und Arbeit
         ●   Mieten und Kaufen (Gutachten) 
         ●   Personennummer 
         ●   Steuern und ID-Nummer
