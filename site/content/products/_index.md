@@ -32,7 +32,7 @@ intro:
 
         Benötige ich eine Bank ID und für was benötige ich sie?
 
-        Welche Dokumente werden für eine Ummeldung des KFZ nötig und wo kann ich mein Auto ummelden? Bei einem Hauskauf beispielsweise, ist ein Gutachten in schriftlicher Form vorhanden. Übersetzen kann man dieses Gutachten auch per Software, aber der Inhalt eines Gutachtens ist wesentlich mehr als „nur“ eine Übersetzung.  Hier gibt es oft einige Punkte zu beachten, die speziell nur hier in Schweden zu beachten sind.  
+        Welche Dokumente werden für eine Ummeldung des KFZ nötig und wo kann ich mein Auto ummelden? → Bei einem Hauskauf beispielsweise, ist ein Gutachten in schriftlicher Form vorhanden. Übersetzen kann man dieses Gutachten auch per Software, aber der Inhalt eines Gutachtens ist wesentlich mehr als „nur“ eine Übersetzung.  Hier gibt es oft einige Punkte zu beachten, die speziell nur hier in Schweden zu beachten sind. ←
       image: img/fragezeichen.jpg
     - image: img/telefon.jpg
       text: >
