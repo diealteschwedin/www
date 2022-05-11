@@ -15,9 +15,9 @@ intro:
         ●   Arbeitsamt und Schule.
       image: img/dokumente-2.jpg
     - image: img/zeit.jpg
-      text: "Wie lange es dauert, hängt vor allem von zwei Faktoren ab:
-        Dokumentenlänge und Sprachkombination. Je kürzer ein Text, desto
-        schneller ist er natürlich auch zu übersetzen."
+      text: Wie lange es dauert, hängt von der Dokumentenlänge und der
+        Sprachkombination ab. Je kürzer ein Text, desto schneller ist er
+        natürlich auch zu übersetzen.
     - text: >+
         Ihr Dokument können Sie schon ab 20 € für 100 Wörter Übersetzten lassen.
         Bei größeren und komplexeren Übersetzungen erstelle ich Ihnen gerne ein
