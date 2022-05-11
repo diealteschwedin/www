@@ -31,7 +31,5 @@ products:
       Wozu benötige ich eine PN-Nummer? Benötige ich eine Bank-ID? Welche
       Dokumente benötige ich grundsätzlich?
     image: img/fragezeichen.jpg
-values:
-  heading: e
-  text: f
+
 ---
