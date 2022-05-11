@@ -37,7 +37,7 @@ intro:
     - image: img/telefon.jpg
       text: >
         Sie haben allgemeine Fragen zu den oben genannten Themen? Dann
-        vereinbaren Sie gerne ein Beratungs gespräch per Telefon mit mir.
+        vereinbaren Sie gerne ein Beratungsgespräch per Telefon mit mir.
 
         Per E-Mail stimme ich einen Termin mit Ihnen ab. Es ist ratsam, vor der Beratung formlos eine „kurze“ E-Mail zu verfassen, in der die hauptsächlichen Fragen skizziert werden. Hier ist es auch wichtig zu wissen um welche Kommune/Bundesland es sich handelt. Somit bin ich vorbereitet und kann den Telefontermin für Sie und mich effektiv nutzen.
     - text: >
