@@ -51,20 +51,5 @@ intro:
     Welche Arten von Dokumenten übersetze ich?
     Wie lange braucht man für eine Übersetzung?
     Was kostet es Dokumente übersetzen zu lassen?
-main:
-  description: "\n"
-  heading: t
-  image1:
-    image: img/mstile-150x150.png
-    alt: e
-  image2:
-    image: img/mstile-150x150.png
-    alt: e
-  image3:
-    image: img/mstile-150x150.png
-    alt: e
-full_image: img/mstile-150x150.png
-pricing:
-  heading: "0"
-  description: "0"
+
 ---
