@@ -18,7 +18,7 @@ intro:
       text: Wie lange es dauert, hängt von der Dokumentenlänge und der
         Sprachkombination ab. Je kürzer ein Text, desto schneller ist er
         natürlich auch zu übersetzen.
-    - text: "Ihr übersetztes Dokument, können Sie schon ab 20,- € für 100 Wörter
+    - text: "Ihr übersetztes Dokument, können Sie schon ab 10,- € für 100 Wörter
         erhalten. Bei größeren und komplexeren Übersetzungen erstelle ich Ihnen
         gerne ein unverbindliches Angebot. [Ausgenommen sind beglaubigte
         Dokumente] Nach dem Absenden Ihrer Angebotsanfrage erhalten Sie von mir
