@@ -12,7 +12,7 @@ intro:
         ●   Personennummer 
         ●   Steuern und ID-Nummer
         ●   Versicherungen und Gesundheitsbehörden
-        ●   Arbeitsamt und Schule.
+        ●   Arbeitsamt und Schule
       image: img/dokumente-2.jpg
     - image: img/zeit.jpg
       text: Wie lange es dauert, hängt von der Dokumentenlänge und der
