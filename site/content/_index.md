@@ -24,7 +24,7 @@ products:
     text: |
       Welche Arten von Dokumenten übersetze ich?
   - image: img/zeit.jpg
-    text: Wie lange braucht man für eine Übersetzung?
+    text: Wie lange benötige ich für eine Übersetzung?
   - image: img/rechnung.jpg
     text: Was kostet es Dokumente übersetzen zu lassen?
   - text: >
