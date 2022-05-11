@@ -1,3 +1,6 @@
+---
+title: Impressum / Datenschutz
+
 # **Impressum**  
 Angaben gemäß § 5 TMG  
 Max Mustermann  
@@ -222,3 +225,5 @@ insbesondere gesetzliche Aufbewahrungsfristen – bleiben unberührt.
 
 Quelle:  
 https://www.e-recht24.de 
+
+---
