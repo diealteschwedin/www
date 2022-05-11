@@ -1,5 +1,5 @@
 ---
-title: "die-alte-schwedin "
+title: "die alte Schwedin "
 subtitle: Übersetzung und Interpretation für den schwedischen Alltag.
 image: img/4.jpg
 blurb:
