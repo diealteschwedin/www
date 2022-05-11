@@ -1,6 +1,6 @@
 ---
 title: "die alte Schwedin "
-subtitle: Übersetzung und Interpretation für den schwedischen Alltag.
+subtitle: Übersetzung und Interpretation für den schwedischen Alltag
 image: img/4.jpg
 blurb:
   heading: Hilfe wir sind in Schweden..
