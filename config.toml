@@ -1,2 +1,6 @@
-languageCode = "en-us"
-title = "My New Netlify Victor Hugo Site"
+baseurl = "diealteschwedin.de/"
+languageCode = "de-de"
+languageLang = "de"
+title = "die alte Schwedin"
+[params] 
+    DateForm = "02.01.2006"
