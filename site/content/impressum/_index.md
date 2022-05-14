@@ -1,5 +1,3 @@
----
-title: Impressum / Datenschutz
 
 # **Impressum**  
 Angaben gemäß § 5 TMG  
@@ -225,5 +223,3 @@ insbesondere gesetzliche Aufbewahrungsfristen – bleiben unberührt.
 
 Quelle:  
 https://www.e-recht24.de 
-
----
